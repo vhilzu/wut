@@ -4,7 +4,7 @@
 Firstly, make an alias
 
 ```
-alias wut="python wut.py " 
+alias wut="python path/to/wut.py " 
 ```
 
 
