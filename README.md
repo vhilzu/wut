@@ -4,7 +4,9 @@
 Firstly, make an alias
 
 ```
-alias wut="python path/to/wut.py " 
+Usage: 
+1. To view instructions: python wut.py <application name>
+2. To add a new entry: python wut.py --add <application name> "description" "info" "path"
 ```
 
 
