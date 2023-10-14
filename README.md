@@ -1,4 +1,5 @@
-Add and read notes while in terminal
+
+*** Add and read notes while in terminal ***
 
 
 Add new entry with application name
