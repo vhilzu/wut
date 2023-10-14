@@ -1,6 +1,12 @@
 
 ****Add and read notes while in terminal****
 
+Firstly, make an alias
+
+```
+alias="python wut.py " 
+```
+
 
 Add new entry with application name
 
