@@ -1,3 +1,6 @@
+Add and read notes while in terminal
+
+
 Add new entry with application name
 
 ![image](https://github.com/vhilzu/wut/assets/16482464/30a2cc27-d58d-4d01-b742-022feb449e31)
