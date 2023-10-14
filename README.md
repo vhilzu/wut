@@ -1,7 +1,11 @@
 
 ****Add and read notes while in terminal****
 
-Firstly, make an alias
+
+```
+alias wut=path/to/wut/wut.py
+```
+
 
 ```
 Usage: 
