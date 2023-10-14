@@ -3,7 +3,7 @@
 
 
 ```
-alias wut=path/to/wut/wut.py
+alias wut="python path/to/wut/wut.py "
 ```
 
 
