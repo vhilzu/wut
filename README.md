@@ -1,5 +1,5 @@
 
-****Add and read notes while in terminal****
+****Add and read notes in terminal****
 
 
 ```
